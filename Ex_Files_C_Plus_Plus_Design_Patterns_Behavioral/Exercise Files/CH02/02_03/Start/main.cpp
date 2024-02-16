@@ -1,4 +1,4 @@
-//
+// here is my first edition
 //  main.cpp
 //  chain-of-responsibility
 //
